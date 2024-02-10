@@ -1,0 +1,16 @@
+body{
+    height: 200px;
+    background-color: #3C0753;
+}
+img{
+    height:90px;
+    
+    
+}
+nav{
+    height: 50px;
+    background-color: rgb(255, 136, 0);
+}
+#logo{
+    height: 300px;
+}
